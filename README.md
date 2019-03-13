@@ -1,10 +1,6 @@
-# 20773A
-Analyzing Big Data with Microsoft R
 
 # Microsoft Official Course 
-
-## 20773A
-
+# 20773A
 ### Analyzing Big Data with Microsoft R
 
 #### Course outline 
