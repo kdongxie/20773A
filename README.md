@@ -5,7 +5,7 @@
 
 #### Course outline 
 
-###### Module 1 <https://github.com/kdongxie/20773A/blob/master/Module%201%20%20R%20server%20and%20R%20client.md>
+###### [Module 1](https://github.com/kdongxie/20773A/blob/master/Module%201%20%20R%20server%20and%20R%20client.md)
 
 Microsoft R server and R client
 
